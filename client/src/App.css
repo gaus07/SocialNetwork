@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Grand+Hotel&family=Josefin+Sans:wght@700&family=Lato:wght@300&family=Poppins:wght@900&family=Work+Sans:wght@100&display=swap');
+
+
+.brand-logo, h2 {
+    font-family: 'Grand Hotel', cursive;
+}
+
+.mycard{
+    margin-top: 3rem;
+}
+
+.auth-card{
+    padding: 3rem;
+    max-width: 30rem;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #0a6ab6 !important;
+    box-shadow: 0 1px 0 0 #0a6ab6 !important;
+}
